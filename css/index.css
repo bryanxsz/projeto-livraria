@@ -1,0 +1,12 @@
+#top h1 {
+    color: red;
+    text-align: center;
+}
+
+#top h2 {
+    text-align: center;
+}
+
+.destaques h2 {
+    color: blue;
+}
